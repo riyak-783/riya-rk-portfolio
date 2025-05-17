@@ -28,7 +28,7 @@
 
 ## 📸 Preview
 
-> 🖼️ Live Demo: [View Portfolio](https://riya-rk-portfolio.vercel.app/)  
+> 🖼️ Live Demo: [View Portfolio](https://riya-kumari-portfolio.netlify.app/)  
 
 
 ---
@@ -37,7 +37,7 @@
 
 | Frontend        | Styling        | Animation         | Hosting     |
 |-----------------|----------------|-------------------|-------------|
-| React + Vite    | Tailwind CSS   | Framer Motion     | Vercel      |
+| React + Vite    | Tailwind CSS   | Framer Motion     | Netlify      |
 
 ---
 
